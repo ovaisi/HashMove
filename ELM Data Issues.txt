@@ -5,3 +5,5 @@ Ammar: 08/04/2021
 - Muliple ELMs do not have associated industries, they show as blank
 - Repeated POLName and PODName values in RateRequest_Det (for eg RateRequestId 12076, 11535, 11482, 11096, 12134, 11937, 11910, 11469)
 - Blank Requestid in RateRequest_Det, this can not be null by design.
+
+test
